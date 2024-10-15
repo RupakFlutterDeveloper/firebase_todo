@@ -28,7 +28,7 @@ class ProfilePage extends StatelessWidget {
           children: [
             Stack(
               children: [
-                // Cross sign logic
+                // Drawer Code Logic
                 Positioned(
                   top: 10,
                   right: 12,
